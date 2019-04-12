@@ -1,0 +1,14 @@
+language: bash
+
+addons:
+  apt:
+    update: true
+
+services:
+  - docker
+
+install:
+  - docker build --tag svn2git .
+
+script:
+  - docker run svn2git --help
