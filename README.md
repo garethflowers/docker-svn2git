@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/garethflowers/docker-svn2git.svg?branch=master)](https://travis-ci.com/garethflowers/docker-svn2git) [![Image Layers](https://images.microbadger.com/badges/image/garethflowers/svn2git.svg)](https://microbadger.com/images/garethflowers/svn2git) [![Docker Pulls](https://img.shields.io/docker/pulls/garethflowers/svn2git.svg)](https://store.docker.com/community/images/garethflowers/svn2git)
+[![Build Status](https://travis-ci.com/garethflowers/docker-svn2git.svg?branch=master)](https://travis-ci.com/garethflowers/docker-svn2git) [![Version](https://images.microbadger.com/badges/version/garethflowers/svn2git.svg)](https://microbadger.com/images/garethflowers/svn2git) [![Image Layers](https://images.microbadger.com/badges/image/garethflowers/svn2git.svg)](https://microbadger.com/images/garethflowers/svn2git) [![Docker Pulls](https://img.shields.io/docker/pulls/garethflowers/svn2git.svg)](https://store.docker.com/community/images/garethflowers/svn2git)
 
 # svn2git
 
