@@ -15,7 +15,7 @@ LABEL org.label-schema.build-date=$BUILD_DATE \
 	org.label-schema.version="1.0.0"
 
 RUN apk add --no-cache ruby git git-svn git-perl && \
-	gem install svn2git --no-ri --no-rdoc
+	gem install svn2git --no-document
 
 WORKDIR /svn2git
 
