@@ -1,3 +1,4 @@
+docker_repository: garethflowers/svn2git
 plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
